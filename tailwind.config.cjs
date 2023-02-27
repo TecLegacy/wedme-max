@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        hero: "url('./src/assets/Front-main-wallpaper.webp')",
+        // hero: "url('./src/assets/Front-main-wallpaper.webp')",
+        hero: "url('/src/assets/Front-main-wallpaper.webp')",
       },
     },
   },
