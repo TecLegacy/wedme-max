@@ -1,0 +1,86 @@
+export const venues = [
+  {
+    id: 1,
+    name: 'The Grand Palace',
+    image: 'https://i.imgur.com/7PyWhW8.jpg',
+    description:
+      'A luxurious and spacious wedding venue with modern amenities and beautiful decor.',
+    capacity: 500,
+    price: '$10,000',
+    location: 'Mumbai',
+    website: 'https://www.thegrandpalace.com/',
+    contact: '(123) 456-7890',
+  },
+  {
+    id: 2,
+    name: 'The Garden Villa',
+    image: 'https://i.imgur.com/eU6js5p.jpg',
+    description:
+      'A beautiful outdoor wedding venue with lush greenery, ponds, and waterfalls.',
+    capacity: 200,
+    price: '$8,000',
+    location: 'Mumbai',
+    website: 'https://www.thegardenvilla.com/',
+    contact: '(987) 654-3210',
+  },
+  {
+    id: 3,
+    name: 'The Crystal Ballroom',
+    image: 'https://i.imgur.com/U6bLXTD.jpg',
+    description:
+      'A stunning and elegant ballroom with crystal chandeliers and a spacious dance floor.',
+    capacity: 300,
+    price: '$12,000',
+    location: 'Delhi',
+    website: 'https://www.crystalballroom.com/',
+    contact: '(111) 222-3333',
+  },
+  {
+    id: 4,
+    name: 'The Ocean View',
+    image: 'https://i.imgur.com/3qNg6LH.jpg',
+    description:
+      'A scenic and picturesque wedding venue overlooking the ocean with stunning sunset views.',
+    capacity: 150,
+    price: '$9,000',
+    location: '321 Ocean Boulevard, Miami, FL',
+    website: 'https://www.oceanviewvenue.com/',
+    contact: '(444) 555-6666',
+  },
+  {
+    id: 5,
+    name: 'The Rustic Barn',
+    image: 'https://i.imgur.com/rREXZ5c.jpg',
+    description:
+      'A charming and rustic barn wedding venue with beautiful countryside views and vintage decor.',
+    capacity: 250,
+    price: '$7,000',
+    location: 'Bangalore',
+    website: 'https://www.rusticbarnvenue.com/',
+    contact: '(777) 888-9999',
+  },
+  {
+    id: 6,
+    name: 'The Modern Loft',
+    image: 'https://i.imgur.com/4qKB4rq.jpg',
+    description:
+      'A sleek and modern loft wedding venue with an industrial vibe and minimalist design.',
+    capacity: 100,
+    price: '$6,000',
+    location: 'Jaipur',
+    website: 'https://www.modernloftvenue.com/',
+    contact: '(222) 333-4444',
+  },
+  {
+    id: 7,
+    name: 'The Historic Mansion',
+    image: 'https://i.imgur.com/df7pDM5.jpg',
+    description:
+      'An elegant and historic mansion wedding venue with grand architecture and luxurious interiors.',
+    capacity: 400,
+    price: '$15,000',
+    location: 'Jaipur',
+    website: 'https://www.historicmansionvenue.com/',
+    contact: '(555) 666-2223',
+  },
+];
